@@ -5,3 +5,4 @@ CWE - 307
 Vulnerable Product: https://github.com/scriptandtools/eCommerce-website-in-PHP
 Detailed Information:
 
+Note: To use this Tool,Read the comments in the code and change the email and paths as per your scenarios!
