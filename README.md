@@ -1,5 +1,6 @@
-# E-commerce-3.0-bruter
+# E-commerce-3.0-User-bruter
 This Tool Is Made For Pentesting Research!
+
 CVE - (Will be updated in future)
 
 CWE - 307
